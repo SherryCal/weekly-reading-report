@@ -1,16 +1,9 @@
-Welcome to GitHub Pages
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+# the 1st week
+- [report](url)
+- [papers](url)
+- [overview]()
+# the 2nd week
 
-Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
-
-Markdown
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -21,6 +14,11 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+
+
+http://github.com - automatic!
+[GitHub](http://github.com)
 For more details see GitHub Flavored Markdown.
 
 Jekyll Themes
