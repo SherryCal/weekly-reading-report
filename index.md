@@ -6,15 +6,22 @@
 - [report](https://github.com/SherryCal/weekly-reading-report.io/blob/master/the%202nd%20week's%20reading%20report.pdf)
 - [papers](url)
 - [overview]()
-# the 3rd week
-- [report](url)
-- [papers](url)
-- [overview]()
 # the 4th week
-- [report](url)
+- [report](https://github.com/SherryCal/weekly-reading-report.io/blob/master/the%204th%20week's%20reading%20report.pdf)
 - [papers](url)
 - [overview]()
-
+# the 5th week
+- [report](https://github.com/SherryCal/weekly-reading-report.io/blob/master/the%205th%20week's%20paper%20report.pdf)
+- [papers](url)
+- [overview]()
+# the 6th week
+- [report](https://github.com/SherryCal/weekly-reading-report.io/blob/master/the%206th%20week‘s%20report.pdf)
+- [papers](url)
+- [overview]()
+# the 7th week
+- [report](https://github.com/SherryCal/weekly-reading-report.io/blob/master/the%207th%20week's%20reading%20report.pdf)
+- [papers](url)
+- [overview]()
 
 - Bulleted
 - List
