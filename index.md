@@ -1,9 +1,9 @@
 # the 1st week
-- [report](url)
+- [report](https://github.com/SherryCal/weekly-reading-report.io/blob/master/the%201st%20week's%20report.pdf)
 - [papers](url)
 - [overview]()
 # the 2nd week
-- [report](url)
+- [report](https://github.com/SherryCal/weekly-reading-report.io/blob/master/the%202nd%20week's%20reading%20report.pdf)
 - [papers](url)
 - [overview]()
 # the 3rd week
