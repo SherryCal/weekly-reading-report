@@ -5,14 +5,11 @@
   
   - Spectrum-Diverse Neuroevolution With Unified Neural Models [link](https://github.com/SherryCal/weekly-reading-report.io/blob/master/paper%20lists/SUNA.pdf)
 
-  - Novelty-Organizing Team of Classifiers in Noisy and Dynamic Environments[link](https://github.com/SherryCal/weekly-reading-report.io/blob/master/paper%20lists/Novelty-Organizing%20Team%20of%20Classifiers%20in%20Noisy%20and%20Dynamic%20Environments.pdf)
+  - Novelty-Organizing Team of Classifiers in Noisy and Dynamic Environments [link](https://github.com/SherryCal/weekly-reading-report.io/blob/master/paper%20lists/Novelty-Organizing%20Team%20of%20Classifiers%20in%20Noisy%20and%20Dynamic%20Environments.pdf)
 
-  - Auto-Encoding Variational Bayes[link](https://github.com/SherryCal/weekly-reading-report.io/blob/master/paper%20lists/Auto-Encoding%20Variational%20Bayes.pdf)
+  - Auto-Encoding Variational Bayes [link](https://github.com/SherryCal/weekly-reading-report.io/blob/master/paper%20lists/Auto-Encoding%20Variational%20Bayes.pdf)
 - overview
-
-   SUNA
-
-   SVM
+  - SUNA SVM CNN
 
 # the 2nd week
 - [report](https://github.com/SherryCal/weekly-reading-report.io/blob/master/the%202nd%20week's%20reading%20report.pdf)
