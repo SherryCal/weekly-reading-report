@@ -1,9 +1,7 @@
 # the 1st week
 - [report](https://github.com/SherryCal/weekly-reading-report.io/blob/master/the%201st%20week's%20report.pdf)
 - papers
-===
-
- [Spectrum-Diverse Neuroevolution With Unified Neural Models](https://github.com/SherryCal/weekly-reading-report.io/blob/master/paper%20lists/SUNA.pdf)
+  - Spectrum-Diverse Neuroevolution With Unified Neural Models[link](https://github.com/SherryCal/weekly-reading-report.io/blob/master/paper%20lists/SUNA.pdf)
 ---
 
   ## [Spectrum-Diverse Neuroevolution With Unified Neural Models](https://github.com/SherryCal/weekly-reading-report.io/blob/master/paper%20lists/SUNA.pdf)
