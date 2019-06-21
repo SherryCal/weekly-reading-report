@@ -9,17 +9,18 @@
 
   - Auto-Encoding Variational Bayes [link](https://github.com/SherryCal/weekly-reading-report.io/blob/master/paper%20lists/Auto-Encoding%20Variational%20Bayes.pdf)
 - overview
-  - SUNA SVM CNN
+  - SUNA / SVM / CNN
 
 # the 2nd week
 - [report](https://github.com/SherryCal/weekly-reading-report.io/blob/master/the%202nd%20week's%20reading%20report.pdf)
- - Spectrum-Diverse Neuroevolution With Unified Neural Models [link](https://github.com/SherryCal/weekly-reading-report.io/blob/master/paper%20lists/SUNA.pdf)
+- papers
+   - Spectrum-Diverse Neuroevolution With Unified Neural Models [link](https://github.com/SherryCal/weekly-reading-report.io/blob/master/paper%20lists/SUNA.pdf)
   
-  - Self Organizing Classiers: First Steps in Structured Evolutionary Machine Learning [link](https://github.com/SherryCal/weekly-reading-report.io/blob/master/paper%20lists/SUNA.pdf)
+   - Self Organizing Classiers: First Steps in Structured Evolutionary Machine Learning [link](https://github.com/SherryCal/weekly-reading-report.io/blob/master/paper%20lists/SUNA.pdf)
   
-  - Neural Models about CNNs [link](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+   - Neural Models about CNNs [link](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 - overview
- - CNN  Novelty-Map
+  - CNN / Novelty-Map
 # the 4th week
 - [report](https://github.com/SherryCal/weekly-reading-report.io/blob/master/the%204th%20week's%20reading%20report.pdf)
 - [papers](url)
