@@ -25,7 +25,7 @@
 - [report](https://github.com/SherryCal/weekly-reading-report.io/blob/master/weekly%20report/the%204th%20week's%20reading%20report.pdf)
 - papers
   - Network in Network [link](https://github.com/SherryCal/weekly-reading-report.io/blob/master/paper%20lists/Network%20in%20Network.pdf)
-- [overview]
+- overview
   - NIN / AlexNet
 # the 5th week
 - [report](https://github.com/SherryCal/weekly-reading-report.io/blob/master/weekly%20report/the%205th%20week's%20paper%20report.pdf)
