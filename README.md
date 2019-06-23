@@ -53,6 +53,6 @@
   - Implementation of Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [link](https://github.com/SherryCal/weekly-reading-report.io/blob/master/paper%20lists/Implementation%20of%20Unpaired%20Image-to-Image%20Translation%20using%20Cycle-Consistent%20Adversarial%20Networks..pdf)
   - DSAL-GAN- Denoising based Saliency Prediction with Generative Adversarial Networks [link](https://github.com/SherryCal/weekly-reading-report.io/blob/master/paper%20lists/DSAL-GAN-%20Denoising%20based%20Saliency%20Prediction%20with%20Generative%20Adversarial%20Networks%20.pdf)
   - Low-Dose CT Image Denoising Using a Generative Adversarial Network With Wasserstein Distance and Perceptual Loss [link](https://github.com/SherryCal/weekly-reading-report.io/blob/master/paper%20lists/Low-Dose%20CT%20Image%20Denoising%20Using%20a%20Generative%20Adversarial%20Network%20With%20Wasserstein%20Distance%20and%20Perceptual%20Loss.pdf)
-  -Image Blind Denoising With Generative Adversarial Network Based Noise Modeling [link](https://github.com/SherryCal/weekly-reading-report.io/blob/master/paper%20lists/Image%20Blind%20Denoising%20With%20Generative%20Adversarial%20Network%20Based%20Noise%20Modeling.pdf)
+  - Image Blind Denoising With Generative Adversarial Network Based Noise Modeling [link](https://github.com/SherryCal/weekly-reading-report.io/blob/master/paper%20lists/Image%20Blind%20Denoising%20With%20Generative%20Adversarial%20Network%20Based%20Noise%20Modeling.pdf)
 - overview
   - Optimizer / VAE / Pix2Pix GAN / Cycle GAN / Deblur GAN / GAN with denoise
