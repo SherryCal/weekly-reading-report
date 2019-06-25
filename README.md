@@ -56,3 +56,5 @@
   - Image Blind Denoising With Generative Adversarial Network Based Noise Modeling [link](https://github.com/SherryCal/weekly-reading-report.io/blob/master/paper%20lists/Image%20Blind%20Denoising%20With%20Generative%20Adversarial%20Network%20Based%20Noise%20Modeling.pdf)
 - overview
   - Optimizer / VAE / Pix2Pix GAN / Cycle GAN / Deblur GAN / GAN with denoise
+# the 8th week
+- [PPT for lab discuss](https://github.com/SherryCal/weekly-reading-report.io/blob/master/weekly%20report/StyGAN_ppt.pdf)
