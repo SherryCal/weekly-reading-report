@@ -37,10 +37,11 @@ class Pix2Pix():
         fake_A = self.generator(img_B)
         self.discriminator.trainable = False
         valid = self.discriminator([fake_A, img_B])
-        self.combined = Model(inputs=[img_A, img_B], outputs=[valid, fake_A])
-        self.combined.compile(loss=['mse', 'mae'],
-                              loss_weights=[1, 100],
+        self.combined = Model(inputs=img_B, outputs=fake_A)
+        self.combined.compile(loss=self.wasserstein_loss,
                               optimizer=optimizer)
+        def wasserstein_loss(self, y_true, y_pred):
+            return K.mean(y_true * y_pred)
     def build_generator(self):
         def conv2d(layer_input, filters, f_size=4, bn=True):
             d = Conv2D(filters, kernel_size=f_size, strides=2, padding='same')(layer_input)
