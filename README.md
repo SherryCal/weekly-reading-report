@@ -58,7 +58,8 @@
   - Optimizer / VAE / Pix2Pix GAN / Cycle GAN / Deblur GAN / GAN with denoise
 # the 8th week
 - [PPT for lab discuss](https://github.com/SherryCal/weekly-reading-report.io/blob/master/weekly%20report/StyGAN_ppt.pdf)
--
+- papers
+  - A Style-Based Generator Architecture for Generative Adversarial Networks [link]()
 # the 9th week
-
--Noise2Noise: Learning Image Restoration without Clean Data [link]()
+- papers
+  -Noise2Noise: Learning Image Restoration without Clean Data [link](https://github.com/SherryCal/weekly-reading-report.io/blob/master/paper%20lists/Noise2Noise-%20Learning%20Image%20Restoration%20without%20Clean%20Data.pdf)
